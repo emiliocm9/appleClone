@@ -4,7 +4,7 @@ This is a clone of the Apple web page [here](https://web.archive.org/web/2014030
 
 Additional description about the project and its features.
 
-![screenshot]()
+![screenshot](img/screenshot.jpg)
 ## Built With
 
 - HTML,
